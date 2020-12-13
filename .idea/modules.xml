@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/js-react-experiments.iml" filepath="$PROJECT_DIR$/.idea/js-react-experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/js-ts-react-experiments.iml" filepath="$PROJECT_DIR$/.idea/js-ts-react-experiments.iml" />
     </modules>
   </component>
 </project>
