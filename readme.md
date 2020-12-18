@@ -1,3 +1,4 @@
+###### [refactoring guru design patterns typescript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ###### [all](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
 1 - 1997.06 [link](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf) <br/>
 2 - 1998.08 [link](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%202nd%20edition,%20August%201998.pdf) <br/>
