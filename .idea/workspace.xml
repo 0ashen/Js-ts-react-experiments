@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="826c99d4-562e-435b-a975-f52b79c79ea8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/.cache/34/5b79fa51ccb0c18420b02f7eb4d6e0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/.cache/4c/dde75d4699aef7e48c3c925ee6bb53.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/.cache/9d/2b37286a943f8fe84b3b0a2dc9809b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/dist/js.00a46daa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/dist/js.00a46daa.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/src/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +33,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Html-layout-two-pages-projects" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -63,7 +54,11 @@
       <workItem from="1610043524302" duration="27000" />
       <workItem from="1610996220604" duration="263000" />
       <workItem from="1610996491665" duration="17000" />
-      <workItem from="1610996521228" duration="480000" />
+      <workItem from="1610996521228" duration="618000" />
+      <workItem from="1611095323030" duration="619000" />
+      <workItem from="1611107360444" duration="2000" />
+      <workItem from="1611143817723" duration="64000" />
+      <workItem from="1611764662625" duration="2988000" />
     </task>
     <task id="LOCAL-00001" summary="add ecma script spec's list">
       <created>1607886367979</created>
@@ -93,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610043547043</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="trying in Parcel builder">
+      <created>1610997071177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610997071177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +119,7 @@
     <MESSAGE value="remove" />
     <MESSAGE value="add link to typesript design patterns" />
     <MESSAGE value="add react life cycle picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="add react life cycle picture" />
+    <MESSAGE value="trying in Parcel builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying in Parcel builder" />
   </component>
 </project>
