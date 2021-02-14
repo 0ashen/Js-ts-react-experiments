@@ -1,23 +1,24 @@
-const URL = 'http://jsonplaceholder.typicode.com/posts'
-
-// синхронный код
-function syncXHR(method, url, data) {
-    var xhr = new XMLHttpRequest();
-
-    xhr.open(method, url, false);
-    xhr.send(data);
-
-    return xhr.responseText;
-}
-
-var data = syncXHR('GET', URL);
-// data = processData(data);
-
-syncXHR('POST', URL, data);
-syncXHR('POST', URL, data);
-console.log('Done')
+// const URL = 'http://jsonplaceholder.typicode.com/posts'
+//
+// // синхронный код
+// function syncXHR(method, url, data) {
+//     var xhr = new XMLHttpRequest();
+//
+//     xhr.open(method, url, false);
+//     xhr.send(data);
+//
+//     return xhr.responseText;
+// }
+//
+// var data = syncXHR('GET', URL);
+// // data = processData(data);
+//
+// syncXHR('POST', URL, data);
+// syncXHR('POST', URL, data);
+// console.log('Done')
 
 // ассинхронный код
+// @ts-ignore
 const URL = 'http://jsonplaceholder.typicode.com/posts'
 function asyncXHR(method, url, data, callback) {
     var xhr = new XMLHttpRequest();

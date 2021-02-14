@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "pug": "^3.0.0"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.pug"
   }
 }

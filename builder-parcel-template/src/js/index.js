@@ -1,6 +1,8 @@
-function func1(obj) {
-    const {a} = obj;
-    debugger;
-}
+'use strict';
 
-func1({a: 10});
+for (var i = 0; i < 10; i++) {
+    setTimeout(() => {
+        console.log(i);
+    }, 0);
+}
+var i = 500;
