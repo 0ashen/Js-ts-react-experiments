@@ -1,8 +1,25 @@
-'use strict';
 
-for (var i = 0; i < 10; i++) {
-    setTimeout(() => {
-        console.log(i);
-    }, 0);
+// const a = {
+//     a: 10,
+//     b: function (){
+//         (()=> {
+//             debugger;
+//             console.log(this.a);
+//         })()
+//     }
+// }
+// a.b()
+
+
+function test() {
+    let a = 10;
+    let b = 20;
+    let c = 30;
+    return function(myVaribale) {
+        eval(`console.log(${myVaribale})`)
+    }
 }
-var i = 500;
+
+const test2 = test();
+
+test2('c')
