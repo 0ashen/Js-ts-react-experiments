@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9aa846-77e7-4534-ba53-674459c57cff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/react-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-parcel-template/react-app/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/yarn.lock" afterDir="false" />
+    <list default="true" id="3e9aa846-77e7-4534-ba53-674459c57cff" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/builder-parcel-template/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/builder-parcel-template/src/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\Projects\js-ts-react-experiments\builder-parcel-template\react-app\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\Projects\js-ts-react-experiments\react-app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -115,7 +100,9 @@
       <workItem from="1615274000600" duration="21000" />
       <workItem from="1615656732802" duration="2936000" />
       <workItem from="1615666848919" duration="1228000" />
-      <workItem from="1616080295680" duration="201000" />
+      <workItem from="1616080295680" duration="522000" />
+      <workItem from="1616583383057" duration="2570000" />
+      <workItem from="1616595595177" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="- add scripts&#10;- remove workspace">
       <created>1613301819412</created>
@@ -124,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613301819412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1616080800309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616080800309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +140,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- add scripts&#10;- remove workspace" />
     <MESSAGE value="#41 mapping data in mini card" />
-    <option name="LAST_COMMIT_MESSAGE" value="#41 mapping data in mini card" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

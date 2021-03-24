@@ -11,15 +11,30 @@
 // a.b()
 
 
-function test() {
-    let a = 10;
-    let b = 20;
-    let c = 30;
-    return function(myVaribale) {
-        eval(`console.log(${myVaribale})`)
-    }
+// function test() {
+//     let a = 10;
+//     let b = 20;
+//     let c = 30;
+//     return function(myVaribale) {
+//         eval(`console.log(${myVaribale})`)
+//     }
+// }
+//
+// const test2 = test();
+//
+// test2('c')
+
+function sum() {
+    return [...arguments].reduce((acc,cur) => acc += cur, 0)
 }
 
-const test2 = test();
+Number.prototype.add = function() {
+    console.log(sum(this, arguments), 'asdf ')
+  return sum(this, arguments)
+}
 
-test2('c')
+function summator() {
+    return arguments.length > 0 ? sum(...arguments) : 0
+}
+console.log(summator(1,2,3), 'summator(1,2,3)')
+console.log(summator(1,2,3).add(5), 'add(5)')
