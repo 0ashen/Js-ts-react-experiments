@@ -1,0 +1,11 @@
+{
+  "name": "tinkoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-contest/1.js",
+  "scripts": {
+    "start": "node 3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
